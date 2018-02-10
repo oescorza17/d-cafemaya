@@ -1,6 +1,5 @@
-Thanks for downloading this theme!
+Template para 
 
-Theme Name: Laura
-Theme URL: https://bootstrapmade.com/laura-free-creative-bootstrap-theme/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+Empresa: Cafe Maya Hotel
+
+Author: Oscar
