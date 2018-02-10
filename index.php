@@ -17,7 +17,7 @@
  
 </head>
 
-<body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="60" onload="myFunction()">
+<body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="60">
   <div class="header">
     <div class="bg-color">
       <header id="main-header">
@@ -48,8 +48,8 @@
           <div class="row">
             <div class="col-md-12 wow fadeIn delay-05s">
               <div class="banner-text">
-                <h2>Hi, I am <span>Laura</span> Thomson,</h2>
-                <p>A Creative Photographer <br>& Designer</p>
+                <h2>Bienvenidos a <span> Cafe Maya hotel </span> Disfruta</h2>
+                <p>de la naturaleza de nuestro pueblo<br>Zipolite Oaxaca</p>
               </div>
               <div class="overlay-detail text-center">
                 <a href="#about"><i class="fa fa-angle-down"></i></a>
@@ -65,19 +65,19 @@
       <div class="row">
         <div class="col-md-6 text-right">
           <h2 class="title-text">
-            Meet<br><span class="deco">Laura</span> Thomson
+            Quienes<br> Somos?
           </h2>
         </div>
         <div class="col-md-6 text-left">
           <div class="about-text">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <p>El Cafe Maya - Casa Acalli, situado en Zipolite, a 400 metros de la playa del Amor, ofrece alojamientos ideales para familias, WiFi gratuita y un restaurante.</p>
             <p>&nbsp;</p>
-            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <p>Algunos alojamientos incluyen una zona de estar. También hay habitaciones con terraza o balcón. Por un suplemento, se proporcionan utensilios de cocina, un minibar y un calentador eléctrico. El establecimiento ofrece servicio de habitaciones. La zona de los alrededores es ideal para salir a correr por la playa, hacer excursiones en barco y practicar surf o pesca.</p>
             <p>&nbsp;</p>
             <ul class="abt-list">
-              <li>- Excepteur sint occaecat cupidatat non proident.</li>
-              <li>- Duis aute irure dolor in reprehenderit.</li>
-              <li>- Ask the experts.</li>
+              <li>- El aeropuerto de Bahías de Huatulco se halla a 41 km.</li>
+              <li>- El aeropuerto de Puerto Escondido queda a 73 km. </li>
+              <li>- WIFI ZONE</li>
             </ul>
           </div>
         </div>
@@ -88,30 +88,29 @@
     <div class="container">
       <div class="row">
         <div class="col-md-12">
-          <h2 class="title text-center">Let's <span class="deco">See</span> My Work</h2>
+          <h2 class="title text-center">Nuestra estancia </h2>
         </div>
         <div class="col-md-12">
           <div id="myGrid" class="grid-padding">
             <div class="col-md-4 col-sm-4 padding-right-zero">
-              <img src="img/portfolio01.jpg" class="img-responsive">
-              <img src="img/port01.jpg" class="img-responsive">
-              <img src="img/port02.jpg" class="img-responsive">
-              <img src="img/portfolio01.jpg" class="img-responsive">
+              <img src="img/maya03.jpg" class="img-responsive">
+              <img src="img/maya02.jpg" class="img-responsive">
+              <img src="img/maya01.jpg" class="img-responsive">
+              <img src="img/maya04.jpg" class="img-responsive">
             </div>
             <div class="col-md-4 col-sm-4 padding-right-zero">
-              <img src="img/portfolio02.jpg" class="img-responsive">
-              <img src="img/port01.jpg" class="img-responsive">
-              <img src="img/port02.jpg" class="img-responsive">
-              <img src="img/portfolio01.jpg" class="img-responsive">
-              <img src="img/port03.jpg" class="img-responsive">
+              <img src="img/maya05.jpg" class="img-responsive">
+              <img src="img/maya07.jpg" class="img-responsive">
+              <img src="img/maya08.jpg" class="img-responsive">
+              <img src="img/maya11.jpg" class="img-responsive">
+              <img src="img/maya09.jpg" class="img-responsive">
             </div>
             <div class="col-md-4 col-sm-4 padding-right-zero">
-              <img src="img/port01.jpg" class="img-responsive">
-              <img src="img/portfolio01.jpg" class="img-responsive">
-              <img src="img/portfolio02.jpg" class="img-responsive">
-              <img src="img/port03.jpg" class="img-responsive">
-              <img src="img/portfolio02.jpg" class="img-responsive">
-              <img src="img/port02.jpg" class="img-responsive">
+              <img src="img/maya14.jpg" class="img-responsive">
+              <img src="img/maya13.jpg" class="img-responsive">
+              <img src="img/maya15.jpg" class="img-responsive">
+              <img src="img/maya12.jpg" class="img-responsive">
+              
             </div>
           </div>
         </div>
@@ -151,6 +150,14 @@
       </div>
     </div>
   </section>
+  <div class="container">
+  <div class="row-fluid">
+        <div class="span8">
+          <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.co.uk/maps?f=q&source=s_q&hl=en&geocode=&q=10+Rue+de+Rome&sll=48.874650,2.325336&ie=UTF8&hq=&hnear=10+RUE+DE+ROME,+75008,+FRANCE&t=m&z=17&ll=48.875350,2.325336&output=embed"></iframe>
+      </div>
+      
+       
+</div>
   <section id="contact" class="section-padding wow fadeIn delay-05s">
     <div class="container">
       <div class="row">
@@ -197,12 +204,7 @@
           <div class="footer">
             © Copyright Laura Theme. All Rights Reserved
             <div class="credits">
-              <!--
-                All the links in the footer should remain intact. 
-                You can delete the links only if you purchased the pro version.
-                Licensing information: https://bootstrapmade.com/license/
-                Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Laura
-              -->
+              
               Designed by <a href="https://bootstrapmade.com/">BootstrapMade.com</a>
             </div>
           </div>
@@ -232,7 +234,7 @@
   <script src="js/jquery.min.js"></script>
   <script src="js/jquery.easing.min.js"></script>
   <script src="js/bootstrap.min.js"></script>
-  <script src="js/jquery.bxslider.min.js"></script>
+ 
   <script src="js/wow.js"></script>
   <script src="js/custom.js"></script>
   <script src="contactform/contactform.js"></script>
