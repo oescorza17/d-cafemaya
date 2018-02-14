@@ -29,15 +29,11 @@ a:hover, a:focus, a:active{
 	text-decoration: none;
     outline: none;
 }
-/***********************************
-************************************
-Responsive media queries
-************************************
-***********************************/
+/*Responsive media queries*/
 .header {
     background: url('../img/por01.jpg') no-repeat fixed;
-    background-size: cover;
-    min-height: 630px;
+    background-size: 100%;
+    min-height: 100%;
     position: relative;
 }
 .navbar-default {
@@ -313,11 +309,7 @@ footer {
 .grid-item { width: 200px; }
 .grid-item--width2 { width: 400px; }
 
-/***********************************
-************************************
-Responsive media queries
-************************************
-***********************************/
+/*Responsive media queries*/
 @media (min-width: 551px) and (max-width: 980px){
 	.title-text{
 	margin-bottom: 15px;

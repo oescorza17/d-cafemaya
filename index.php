@@ -120,7 +120,7 @@
   <section id="testimonial" class="section-padding wow fadeInUp">
     <div class="container">
       <div class="row">
-        <h2 class="title text-center">See What Our <span class="deco">Client</span> Are Saying ?</h2>
+        <h2 class="title text-center">Pregunta por las <span class="deco">habitaciones </span> que tenemos para ti</h2>
         <div class="test-sec">
           <div class="col-sm-4">
             <blockquote>
@@ -153,7 +153,7 @@
   <div class="container">
   <div class="row-fluid">
         <div class="span8">
-          <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.co.uk/maps?f=q&source=s_q&hl=en&geocode=&q=10+Rue+de+Rome&sll=48.874650,2.325336&ie=UTF8&hq=&hnear=10+RUE+DE+ROME,+75008,+FRANCE&t=m&z=17&ll=48.875350,2.325336&output=embed"></iframe>
+          <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3841.6775698292445!2d-96.51435968514676!3d15.66214898913353!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85b929ead479f0b3%3A0x4e6d2c09f5b6b9c6!2sCafe+Maya+-+Casa+Acalli!5e0!3m2!1ses!2smx!4v1518581109261"></iframe>
       </div>
       
        
@@ -202,7 +202,7 @@
       <div class="row">
         <div class="col-md-6">
           <div class="footer">
-            © Copyright Laura Theme. All Rights Reserved
+          
             <div class="credits">
               
               Designed by <a href="https://bootstrapmade.com/">BootstrapMade.com</a>
